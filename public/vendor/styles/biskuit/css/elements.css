@@ -1,0 +1,30 @@
+.pk-header {
+    position: relative;
+    background: #24292e;
+    color: #fff;
+}
+.pk-header .pk-title {
+    color: #fff;
+    font-size: 28px;
+    line-height: 34px;
+    font-weight: 300;
+    padding: 0 12px;
+}
+.pk-header .pk-container {
+    padding: 50px 0 1px;
+}
+.pk-header .pk-navbar {
+    background-color: #24292e;
+    color:#fff;
+    position: relative;
+}
+.uk-navbar-nav > li.uk-active > a {
+    color: #fff;
+}
+.pk-navbar .pk-icon {
+    margin: 1px 4px 0 0;
+    width: 16px;
+}
+.pk-header .pk-title a {
+    color: #fff;
+}
