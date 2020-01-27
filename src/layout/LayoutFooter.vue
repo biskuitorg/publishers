@@ -12,11 +12,11 @@
                     </div>
                     <div>
                         <p>
-                            <a href="https://github.com/mirkobrombin/pagekit" uk-icon="icon: github"></a> &nbsp;
-                            <a href="https://github.com/mirkobrombin/pagekit" uk-icon="icon: lifesaver"></a> &nbsp;
-                            <a href="https://github.com/mirkobrombin/pagekit" uk-icon="icon: comments"></a>
+                            <a href="https://github.com/biskuitorg" uk-icon="icon: github"></a> &nbsp;
+                            <a href="https://github.com/biskuitorg/publishers/issues" uk-icon="icon: lifesaver"></a> &nbsp;
+                            <a href="https://docs.biskuit.org/" uk-icon="icon: bookmark"></a>
                         </p>
-                        <p>Just a copyright line (c)</p>
+                        <p>Bis[ku]it (c) 2019-2020</p>
                     </div>
                 </div>
             </div>
