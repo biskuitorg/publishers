@@ -29,7 +29,7 @@
                 </div>
             </div>
             <div class="uk-margin">
-                <button class="uk-button uk-button-primary">Upload</button>
+                <button class="uk-button uk-button-primary">Send for review</button>
             </div>
         </form>
     </div>

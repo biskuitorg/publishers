@@ -2,7 +2,7 @@
   <div class="uk-section">
     <div class="uk-container">
       <h3>Reset password</h3>
-      <p>Reset your developer account password.</p>
+      <p>Reset your publisher account password.</p>
       <form>
         <div class="uk-margin">
           <div class="uk-inline">
@@ -11,7 +11,7 @@
           </div>
         </div>
         <div class="uk-margin">
-          <button class="uk-button uk-button-primary">Reset</button>
+          <button class="uk-button uk-button-primary">Send instructions</button>
         </div>
       </form>
     </div>

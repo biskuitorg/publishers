@@ -2,7 +2,7 @@
   <div class="uk-section">
     <div class="uk-container">
       <h3>Support center</h3>
-      <p>Support section for developers.</p>
+      <p>Support section for publishers.</p>
       <ul uk-accordion>
         <li class="uk-open">
             <a class="uk-accordion-title" href="#">How do I update my package?</a>
