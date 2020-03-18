@@ -82,11 +82,6 @@
                         </td>
                         <td>
                             <ul class="uk-iconnav">
-                                <li><a uk-icon="check" title="Published"></a></li>
-                            </ul>
-                        </td>
-                        <td>
-                            <ul class="uk-iconnav">
                                 <li><a uk-icon="info" title="Details"></a></li>
                                 <li><a uk-icon="upload" title="Send update"></a></li>
                                 <li><a uk-icon="trash" title="Delete"></a></li>
