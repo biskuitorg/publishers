@@ -4,7 +4,7 @@
             <div class="pk-container">
                 <div class="uk-flex uk-flex-space-between uk-flex-middle uk-hidden-small">
                     <h1 class="pk-title">
-                        <a @click="$router.push({ name: 'home' })">bis[ku]it:Publishers</a>
+                        <a @click="$router.push({ name: 'home' })">Biskuit Publishers</a>
                     </h1>
                 </div>
             </div>
