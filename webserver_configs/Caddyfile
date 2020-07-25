@@ -1,0 +1,4 @@
+root * /path/to/public
+try_files {path} /index.html
+encode gzip
+file_server
